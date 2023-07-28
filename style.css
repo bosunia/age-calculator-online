@@ -20,7 +20,7 @@
 }
 
 .calculator h1 {
-    font-size: 60px;
+    font-size: 57px;
 }
 
 .input-box {
@@ -86,7 +86,8 @@
     }
 
     .calculator h1 {
-        font-size: 40px;
+        font-size: 34px;
+        text-align: center;
     }
 
     .input-box {
