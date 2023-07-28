@@ -114,7 +114,7 @@ p#result {
 }
 
 }
-p#result {
+.result {
     font-size: 34px;
     text-align: center;
     background-color: #ffffff;
