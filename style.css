@@ -20,7 +20,7 @@
 }
 
 .calculator h1 {
-    font-size: 57px;
+    font-size: 60px;
 }
 
 .input-box {
@@ -86,8 +86,7 @@
     }
 
     .calculator h1 {
-        font-size: 30px;
-        text-align: center;
+        font-size: 40px;
     }
 
     .input-box {
@@ -112,9 +111,12 @@
 p#result {
     font-size: 22px;
 }
+#hl {
+    margin-top: 5%;
+}
 
 }
-.result {
+.results {
     font-size: 34px;
     text-align: center;
     background-color: #ffffff;
@@ -126,4 +128,25 @@ p#result {
     padding-bottom: 30px;
     padding-left: 20px;
     padding-right: 20px;
+}
+.myss {
+    text-align: left;
+    background-color: #ffffff;
+    border-radius: 0.31em;
+    color: #080808;
+    place-items: center;
+    box-shadow: 0 0.93em 1.25em rgba(0, 0, 0, 0.3);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#hl {
+    margin-top: 3%;
+}
+h3{
+    font-size: 25px;
+}
+p#dis {
+    font-size: 20px;
 }
